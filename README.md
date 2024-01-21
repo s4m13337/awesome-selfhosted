@@ -1547,7 +1547,7 @@ _Related: [Static Site Generators](#static-site-generators), [Photo and Video Ga
 - [Immich](https://immich.app/) - Self-hosted photo and video backup solution directly from your mobile phone. ([Source Code](https://github.com/immich-app/immich)) `MIT` `Docker`
 - [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. ([Clients](https://docs.librephotos.com/docs/user-guide/mobile/)) `MIT` `Python/Docker`
 - [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP/Docker`
-- [Mediagoblin](https://mediagoblin.org) - Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc). ([Source Code](https://git.savannah.gnu.org/cgit/mediagoblin.git/tree/)) `AGPL-3.0` `Python`
+- [Mediagoblin](https://mediagoblin.org) - Free software media publishing platform that anyone can run (alternative to Flickr, YouTube, SoundCloud, etc). ([Source Code](https://savannah.gnu.org/projects/mediagoblin)) `AGPL-3.0` `Python`
 - [Mejiro](https://github.com/dmpop/mejiro) - An easy-to-use PHP web application for instant photo publishing. `GPL-3.0` `PHP`
 - [Nextcloud Memories](https://memories.gallery/) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app. ([Demo](https://demo.memories.gallery/apps/memories/), [Source Code](https://github.com/pulsejet/memories)) `AGPL-3.0` `PHP`
 - [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go/Docker`
@@ -1946,11 +1946,11 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 - [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php), [Source Code](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`
 - [osTicket](https://osticket.com/) - Manage, organize and archive all your support requests and responses in one place. ([Source Code](https://github.com/osTicket/osTicket)) `GPL-2.0` `PHP`
 - [OTOBO](https://otobo.de/en/) - Flexible web-based ticketing system used for Customer Service, Help Desk, IT Service Management. ([Demo](https://otobo.de/en/open-source-ticketing-system/#demos), [Source Code](https://github.com/RotherOSS/otobo)) `GPL-3.0` `Perl/Docker`
+- [Peppermint](https://peppermint.sh/) - Peppermint is a fully open source helpdesk solution. ([Source Code](https://github.com/Peppermint-Lab/peppermint)) `GPL-3.0` `Docker`
 - [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`
 - [Roundup Issue Tracker](https://www.roundup-tracker.org/) - A simple-to-use and -install issue-tracking system with command-line, web, REST, XML-RPC, and e-mail interfaces. Designed with flexibility in mind - not just another bug tracker. ([Source Code](https://www.roundup-tracker.org/code.html)) `MIT/ZPL-2.0` `Python/Docker`
 - [Trudesk](https://trudesk.io/) - Trudesk is an open-source help desk/ticketing solution. ([Source Code](https://github.com/polonel/trudesk)) `Apache-2.0` `Nodejs/Docker`
 - [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
-
 
 ### Time Tracking
 
